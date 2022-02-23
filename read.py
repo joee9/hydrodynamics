@@ -11,7 +11,7 @@ from scipy.fft import fft,fftshift
 output_number = 1
 save_fig = 0
 
-# dim = "s"
+# dim = "s" 
 dim = "ringdown"
 
 # fft parameters
