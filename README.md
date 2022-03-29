@@ -1,5 +1,7 @@
 ## Hydrodynamical neutron star simulation
 
+*Note*: This repository was adapted from a private repository containing special, research specific files. They were removed to be made public.
+
 This project is the simulation of a neutron star, with the star modelled as a fluid.
 
 ### Code
